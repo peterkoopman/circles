@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/circles/static/css/main.1b41874f.chunk.css",
+    "main.js": "/circles/static/js/main.83e5d781.chunk.js",
+    "main.js.map": "/circles/static/js/main.83e5d781.chunk.js.map",
+    "runtime-main.js": "/circles/static/js/runtime-main.dfa5f56d.js",
+    "runtime-main.js.map": "/circles/static/js/runtime-main.dfa5f56d.js.map",
+    "static/js/2.2d46a748.chunk.js": "/circles/static/js/2.2d46a748.chunk.js",
+    "static/js/2.2d46a748.chunk.js.map": "/circles/static/js/2.2d46a748.chunk.js.map",
+    "index.html": "/circles/index.html",
+    "static/css/main.1b41874f.chunk.css.map": "/circles/static/css/main.1b41874f.chunk.css.map",
+    "static/js/2.2d46a748.chunk.js.LICENSE.txt": "/circles/static/js/2.2d46a748.chunk.js.LICENSE.txt",
+    "static/media/Magnifier.cfe3344a.svg": "/circles/static/media/Magnifier.cfe3344a.svg",
+    "static/media/Visit Arrow.25c31f36.svg": "/circles/static/media/Visit Arrow.25c31f36.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfa5f56d.js",
+    "static/js/2.2d46a748.chunk.js",
+    "static/css/main.1b41874f.chunk.css",
+    "static/js/main.83e5d781.chunk.js"
+  ]
+}
